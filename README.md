@@ -65,7 +65,7 @@ Below is a curated comparison of leading enterprise and trade-focused constructi
 
 ## 🔓 Open-Source GitHub Projects
 
-The following list contains popular open-source software, ERP modules, and field service frameworks that can be self-hosted and adapted for construction field productivity. Sorted by GitHub star count (descending). ⭐
+The following list contains popular open-source software, ERP modules, and field service frameworks that can be self-hosted and adapted for construction field productivity. Sorted by GitHub Stars_Count (descending). ⭐
 
 - **[Odoo Project + Field Service / Community Construction Add-ons](https://github.com/odoo/odoo)** [<img src="https://img.shields.io/github/stars/odoo/odoo?style=social&color=white" alt="Odoo Stars"/>](https://github.com/odoo/odoo/stargazers)  
   Modular open-source ERP components with comprehensive modules for project management, field service dispatching, task tracking, inventory, and mobile site reporting.
