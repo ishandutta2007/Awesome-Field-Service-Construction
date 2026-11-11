@@ -60,6 +60,7 @@ Below is a curated comparison of leading enterprise and trade-focused constructi
 | **[Fluix](https://www.fluix.io/)** 📝 | **~$15 Million Valuation** (~$7.4M Revenue) | ~$29 / user / month (Crews Plan, min 200 users) | **14-day Free Trial** (No credit card required) | Mobile form automation, digital workflows, inspection checklists, e-signatures, & field paperwork. |
 | **[SiteMax](https://www.sitemaxsystems.com/)** 🏗️ | **~$10 Million Valuation** (~$3.1M Revenue) | ~$25 / user / month (Starter Plan) | Free demo & consultative trial period | Field documentation, equipment tracking, safety compliance, time cards, & site photo management. |
 | **[Touchplan](https://www.touchplan.io/)** 🗓️ | **Bootstrap / Private** (~$2.6M Revenue) | Custom project package quote | **14-day Free Trial** (30-day live project pilot available) | Collaborative look-ahead scheduling, Last Planner System (LPS), pull-planning, & constraint management. |
+| **[Genaya](https://genaya.com/)** 🧠 | **Early-stage, private** | $99 / month (Individual plan, 1 user; per organization) | No free tier; 14-day free trial (card required) | Contractor scheduling & dispatch, estimates, invoices & payments, payroll & commissions, CRM, & an AI phone receptionist that books jobs; iOS & Android apps. |
 
 ---
 
